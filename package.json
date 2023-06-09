@@ -1,0 +1,11 @@
+{
+  "name": "test_sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelina Blokhina",
+  "license": "ISC"
+}
